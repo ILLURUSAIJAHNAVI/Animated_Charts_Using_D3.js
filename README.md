@@ -1,2 +1,11 @@
 # Animated_Charts_Using_D3.js
-In this repository I have scrapped the dataset and created the animated  charts. 
+ 
+Author=ILLURU SAI JAHNAVI
+
+The above information is open to all
+
+B.Teach Computer Science and Engineering
+
+KALASALINGAM ACADEMY OF REASEARCH AND EDUCATION
+
+  Guided by: DR.R.RAJA SUBRAMANIAN
